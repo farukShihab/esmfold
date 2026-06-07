@@ -1,0 +1,10 @@
+[server]
+enableCORS = false
+enableXsrfProtection = false
+headless = true
+port = 10000
+
+[browser]
+serverAddress = "esmfold.onrender.com"
+serverPort = 443
+gatherUsageStats = false
